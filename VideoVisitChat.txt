@@ -1,0 +1,7 @@
+Orkut Chat Application
+Author: Sridhar Ravichandran
+
+1. Participant Code
+2. Chat Page Code
+3. DM Code
+4. Help Code
