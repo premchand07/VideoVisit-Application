@@ -7,4 +7,4 @@ Author: Sridhar Ravichandran
 4. Help Code
 5. Video Calls Code
 6. Screen Share Code
-7. Role Transfer
+7. Moderator Role Transfer
